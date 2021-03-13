@@ -1,5 +1,5 @@
-## NGINX networking
+## NGINX networking running in docker!
 
-Common nginx configurations in varios netowrking scenarios and distributed systems.
+Clean and simple common nginx configurations in varios netwrking scenarios and distributed systems.
 
-The purpose of the repository is to act as a nginx template knowledge for myself and maybe for somebody.
+The purpose of the repository is to act as an nginx template knowledge.
